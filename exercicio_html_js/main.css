@@ -78,7 +78,14 @@ button:hover {
     font-size: 12px;
     display: none;
 }
-
+.error-message2 {
+    padding: 8px;
+    background-color: red;
+    color: #fff;
+    margin-bottom: 8px;
+    font-size: 12px;
+    display: none;
+}
 input.error {
     color: red;
     border-color: red;
